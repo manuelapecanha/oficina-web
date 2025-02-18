@@ -1,0 +1,17 @@
+*{
+    font-size: 160px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+  
+div {
+    border: 1px grey;
+    width: 10rem;
+    height: 40rem;
+}
+
+h1 {
+    color: blue;
+    background-color: red;
+    width: 10px;
+    height: 10px;
+}
